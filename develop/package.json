@@ -1,0 +1,30 @@
+{
+  "name": "EggGameBackstageServerDev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/async": "^2.0.45",
+    "@types/egg": "^1.0.3",
+    "@types/node": "^8.0.53",
+    "gulp": "^3.9.1",
+    "gulp-run": "^1.7.1",
+    "gulp-sourcemaps": "^2.6.1",
+    "gulp-supervisor": "^0.1.2",
+    "gulp-typescript": "^3.2.3",
+    "gulp-uglify": "^3.0.0",
+    "typescript": "^2.6.1"
+  },
+  "devDependencies": {
+    "@types/mocha": "^2.2.44",
+    "mocha": "^4.0.1"
+  }
+}

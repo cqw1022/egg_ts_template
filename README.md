@@ -1,1 +1,2 @@
-# egg_ts_template
+# EggGameBackstageServer
+egg框架游戏后台服务器
